@@ -1,8 +1,5 @@
-# b64-encryptPWA
-simple encryption tool
+# b64-encodePWA
+simple encoding tool
 ``` bash
-https://666hwll.github.io/b64-encryptPWA/
-```
+[Give it a shot and maybe install it :) ](https://example.com)
 
-## Chatkontrolle:
-# Nein, danke
